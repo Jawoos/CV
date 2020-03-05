@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "JaeWoo Park"
-resume_title:                   "Kyungpook national university Student #studying electronics engineering"
+resume_title:                   "Kyungpook national university Student      studying electronics engineering"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jwpark1218@naver.com"
@@ -33,7 +33,7 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+resume_section_experience:      false
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
